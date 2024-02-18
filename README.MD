@@ -15,3 +15,7 @@ To create a react app with typescipt
 .jsx  => stands for javascript xml
 
 .tsx  => stands for typescript xml
+
+To use hooks import it
+
+`import React, {useState} from "react";`     //useState hook
