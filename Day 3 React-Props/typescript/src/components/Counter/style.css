@@ -1,0 +1,13 @@
+.counter-conatiner{
+  display: flex;
+  align-items:center;
+  margin-left: 30px;
+}
+
+button{
+  margin-left: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  padding: 10px 20px;
+  cursor: pointer;
+}
