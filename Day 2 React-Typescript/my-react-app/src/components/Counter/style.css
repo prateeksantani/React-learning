@@ -1,0 +1,21 @@
+.counter-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.inc-btn{
+  margin-right: 50px;
+}
+
+.dec-btn{
+  margin-left: 50px;
+}
+
+button {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: aqua;
+}

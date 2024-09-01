@@ -1,0 +1,21 @@
+.block{
+  border : 1px solid  black;
+  height: 100px;
+  width: 100px;
+  cursor : pointer;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.row{
+  display: flex;
+}
+
+.Container{
+  padding : 100px;
+}

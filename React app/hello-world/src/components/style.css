@@ -1,0 +1,21 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.btn-Inc{
+  margin-right: 50px;
+}
+
+.btn-Dec{
+  margin-left: 50px;
+}
+
+button {
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 10px;
+  background-color: aqua;
+}

@@ -1,11 +1,14 @@
 import React from "react";
 import './style.css';
 
-const TodoItem: React.FC = () => {
+const TodoItem = () => {
   return (
 
     <div>
+    <ul>
     <li>Code</li>
+    </ul>
+    
     
     </div>
     
